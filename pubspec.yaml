@@ -1,0 +1,17 @@
+name: azure_openai
+description: "A Dart + Flutter package for interacting with Azure OpenAI service."
+version: 0.0.1
+homepage: https://github.com/tyler-jewell/azure_openai
+
+environment:
+  sdk: 3.5.3
+  flutter: 3.24.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: 6.0.0
